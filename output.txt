@@ -1,0 +1,25 @@
+Counts statistic 
+1) word: q , counts: 32
+2) word: в , counts: 25
+3) word: . , counts: 18
+4) word: , , counts: 11
+5) word: : , counts: 11
+6) word: и , counts: 9
+7) word: будет , counts: 9
+8) word: файл , counts: 9
+9) word: с , counts: 8
+10) word: которая , counts: 8
+The biggest words: 
+0)word: проконсультироваться, size :20, counts:1
+The small words: 
+0)word: ×, size :1, counts:2
+1)word: в, size :1, counts:25
+2)word: q, size :1, counts:32
+3)word: и, size :1, counts:9
+4)word: :, size :1, counts:11
+5)word: 5, size :1, counts:2
+6)word: 7, size :1, counts:2
+7)word: -, size :1, counts:1
+8)word: ,, size :1, counts:11
+9)word: ., size :1, counts:18
+10)word: с, size :1, counts:8
